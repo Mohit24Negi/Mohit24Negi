@@ -3,6 +3,13 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&pause=1000&color=FF4FD8&center=true&vCenter=true&width=900&lines=Building+Intelligent+AI+Systems;
-    LLMs+%7C+RAG+%7C+LangChain+%7C+AI+Agents;Open+Source+Contributor+%7C+Kaggle+Competitor"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=2500&pause=999999&color=FF4FD8&center=true&vCenter=true&repeat=false&width=700&lines=Building+Intelligent+AI+Systems" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=999999&color=FF4FD8&center=true&vCenter=true&repeat=false&width=700&lines=LLMs+%7C+RAG+%7C+LangChain+%7C+AI+Agents" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=999999&color=FF4FD8&center=true&vCenter=true&repeat=false&width=800&lines=Kaggle+Competitor+%7C+Open+Source+Contributor" />
 </p>
