@@ -3,13 +3,5 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=2500&pause=999999&color=FF4FD8&center=true&vCenter=true&repeat=false&width=700&lines=Building+Intelligent+AI+Systems" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=999999&color=FF4FD8&center=true&vCenter=true&repeat=false&width=700&lines=LLMs+%7C+RAG+%7C+LangChain+%7C+AI+Agents" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=999999&color=FF4FD8&center=true&vCenter=true&repeat=false&width=800&lines=Kaggle+Competitor+%7C+Open+Source+Contributor" />
+  <img src="typing.gif" alt="Typing Animation" width="900">
 </p>
