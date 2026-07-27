@@ -33,7 +33,7 @@ Mohit = {
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
-<h3 align="center">Data Analysis & Visualization</h3>
+<h3 align="center">Data Analysis/Science & Visualization</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
@@ -41,4 +41,32 @@ Mohit = {
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+</p>
+
+<h3 align="center">Machine Learning</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn"/>
+  <img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CatBoost-FFCC00?style=for-the-badge&logoColor=black"/>
+</p>
+
+<h3 align="center">Deep Learning</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch"/>
+</p>
+
+<h3 align="center">AI & NLP</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,mysql,git,github,vscode" />
 </p>
