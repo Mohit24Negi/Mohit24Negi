@@ -9,5 +9,5 @@
 ---
 
 <p align="center">
-  <img src="assets/coding-bear.png" width="900" alt="Coding Bear">
+  <img src="assets/coding-bear.png" width="900" alt="Coding Bear", style="border-radius:15px;">
 </p>
