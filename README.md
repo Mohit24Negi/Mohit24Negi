@@ -16,7 +16,7 @@
 
 ```json
 Mohit = {
-    "focus"      : ["AI Agents", "LLMs", "RAG Systems", "Data Analytics"],
+    "focus"       : ["AI Agents", "LLMs", "RAG Systems", "Data Analytics"],
     "learning"    : ["Machine Learning", "Deep Learning", "NLP", "LLMs"],
     "skills"      : ["Python", "SQL", "Power BI", "Scikit-Learn"],
     "interests"   : ["Data Science", "Computer Vision", "Generative AI"],
