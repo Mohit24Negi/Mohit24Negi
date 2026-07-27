@@ -76,5 +76,5 @@ Mohit = {
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=75BDE0&text=Mohit%20Negi&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=75BDE0&section=footer"/>
 </p>
