@@ -67,6 +67,8 @@ Mohit = {
   <img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge"/>
 </p>
 
+---
+
 ## Connect With Me
 
 <p align="center">
