@@ -6,6 +6,4 @@
   <img src="typing.gif" alt="Typing Animation" width="900">
 </p>
 
-<p align="center">
-────────────────────────────────────────────
-</p>
+---
