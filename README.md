@@ -63,6 +63,6 @@ Mohit = {
 <p align="center">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=NLTK&logoColor=black"/>
-  <img src="https://img.shields.io/badge/NLP-6A1B9A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/NLTK-154F8C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge"/>
 </p>
