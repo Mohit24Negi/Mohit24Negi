@@ -11,3 +11,9 @@
 <p align="center">
   <img src="assets/coding-bear.png" width="800" alt="Coding Bear">
 </p>
+
+<div align="center">
+
+━━━━━━━━━━━━━━━━━━ ✦ About Me ✦ ━━━━━━━━━━━━━━━━━━
+
+</div>
