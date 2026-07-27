@@ -9,7 +9,7 @@
 ---
 
 <p align="center">
-  <img src="assets/coding-bear.png" width="750" alt="Coding Bear">
+  <img src="assets/coding_bear.png" width="750" alt="Coding Bear">
 </p>
 
 ## About Me
@@ -73,4 +73,8 @@ Mohit = {
   <a href="https://github.com/Mohit24Negi"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://www.linkedin.com/in/mohit-negi-8abb82396/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://www.kaggle.com/salamanbhai"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=75BDE0&text=Mohit%20Negi&fontColor=ffffff&section=header&desc=Data%20Scientist%20%7C%20AI%2FML%20%7C%20Data%20Analysis&descColor=ffffff&descAlignY=70&descSize=17"/>
 </p>
