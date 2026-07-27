@@ -66,3 +66,19 @@ Mohit = {
   <img src="https://img.shields.io/badge/NLTK-154F8C?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge"/>
 </p>
+
+## Connect With Me
+
+<h3 align="center">🤝 Connect With Me</h3>
+
+<p align="center">
+  <a href="https://github.com/Mohit24Negi" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.kaggle.com/YOUR-KAGGLE-USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+  </a>
+</p>
