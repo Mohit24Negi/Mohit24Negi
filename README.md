@@ -69,16 +69,14 @@ Mohit = {
 
 ## Connect With Me
 
-<h3 align="center">🤝 Connect With Me</h3>
-
 <p align="center">
   <a href="https://github.com/Mohit24Negi" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/" target="_blank">
+  <a href="https://www.linkedin.com/in/mohit-negi-8abb82396/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://www.kaggle.com/YOUR-KAGGLE-USERNAME" target="_blank">
+  <a href="https://www.kaggle.com/salamanbhai" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
   </a>
 </p>
