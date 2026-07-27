@@ -7,3 +7,7 @@
 </p>
 
 ---
+
+<p align="center">
+  <img src="assets/coding-bear.png" width="900" alt="Coding Bear">
+</p>
