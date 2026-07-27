@@ -14,9 +14,13 @@
 
 ## About Me
 
-vanshika = {
+```json
+Mohit = {
     "focus"      : ["AI Agents", "LLMs", "RAG Systems", "Data Analytics"],
-    "building"   : ["Full-Stack Apps", "Automation Workflows", "Real-Time Systems"],
-    "passionate" : ["AI-powered products", "Scalable systems", "Open Source"],
-    "goal"       : "Combining data engineering with intelligent product development"
+    "learning"    : ["Machine Learning", "Deep Learning", "NLP", "LLMs"],
+    "skills"      : ["Python", "SQL", "Power BI", "Scikit-Learn"],
+    "interests"   : ["Data Science", "Computer Vision", "Generative AI"],
+    "currently"   : "Building Machine Learning & Data Science Projects",
+    "goal"        : "Turning data into intelligent AI solutions 🚀"
 }
+```
