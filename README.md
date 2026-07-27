@@ -9,7 +9,7 @@
 ---
 
 <p align="center">
-  <img src="assets/coding-bear.png" width="700" alt="Coding Bear">
+  <img src="assets/coding-bear.png" width="750" alt="Coding Bear">
 </p>
 
 ## About Me
