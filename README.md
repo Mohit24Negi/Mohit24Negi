@@ -16,12 +16,12 @@
 
 ```json
 Mohit = {
-    "focus"       : ["AI Agents", "LLMs", "RAG Systems", "Data Analytics"],
-    "learning"    : ["Machine Learning", "Deep Learning", "NLP", "LLMs"],
-    "skills"      : ["Python", "SQL", "Power BI", "Scikit-Learn"],
-    "interests"   : ["Data Science", "Computer Vision", "Generative AI"],
-    "currently"   : "Building Machine Learning & Data Science Projects",
-    "goal"        : "Turning data into intelligent AI solutions 🚀"
+    "focus"      : ["AI Agents", "LLMs", "Data Scientist", "Data Analytics"],
+    "skills"     : ["Python", "SQL", "Power BI", "Machine Learning", "Deep Learning", "NLP"],
+    "passionate" : ["AI-powered products", "Scalable systems", "Open Source"],
+    "goal"       : "Combining data engineering with intelligent product development"
 }
 ```
 ---
+
+## Tech Stack
