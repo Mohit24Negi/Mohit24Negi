@@ -16,11 +16,12 @@
 
 ```json
 Mohit = {
-    "focus"      : ["AI Agents", "LLMs", "Data Scientist", "Data Analytics"],
-    "skills"     : ["Python", "SQL", "Power BI", "Machine Learning", "Deep Learning", "NLP"],
-    "passionate" : ["AI-powered products", "Scalable systems", "Open Source"],
-    "goal"       : "Combining data engineering with intelligent product development"
+    "focus"      : ["Data Analysis", "Data Science", "Machine Learning", "Predictive Modeling"],
+    "skills"     : ["Python", "SQL", "Excel", "Power BI", "Tableau", "Pandas", "NumPy", "Scikit-learn"],
+    "passionate" : ["Data-driven insights", "Data Visualization", "Exploratory Data Analysis", "Predictive Analytics"],
+    "goal"       : "Transforming raw data into meaningful insights and building intelligent, data-driven solutions"
 }
+
 ```
 ---
 
